@@ -78,7 +78,7 @@ El sistema de TutoECI debe tener:
 
 | ID | Título | Stakeholder | Evidencia en Jira |
 |:---:|---|---|---|
-| EP-01 | Gestión de Tutorías | Plataforma | ![Épica](../images/epic.png) |
+| EP-01 | Gestión de Tutorías | Plataforma | ![Épica](docs/images/epic.png) |
 --
 ### 2. Historias de usuario
 
@@ -87,3 +87,5 @@ El sistema de TutoECI debe tener:
 | HU-01 | Solicitar tutoria | ![HU-01](docs/images/historiausuario1.png) |
 | HU-02 | Recibir notificación | ![HU-02](docs/images/historiausuario2.png) |
 | HU-03 | Elegir preferencia de tutoría | ![HU-03](docs/images/historiausuario3.png) |
+
+Enlace al Jira: https://yazid-sanchez.atlassian.net/?continue=https%3A%2F%2Fyazid-sanchez.atlassian.net%2Fwelcome%2Fsoftware%3FprojectId%3D10001&atlOrigin=eyJpIjoiNWI0MTMxMmQyNWRkNDg0OWFjNDIwZjc3MmE5M2UzZWQiLCJwIjoiamlyYS1zb2Z0d2FyZSJ9

@@ -4,4 +4,4 @@
 
 ### 6. Diagrama de Contexto
 
-![Diagrama de Contexto](../images/context.png)
+![Diagrama de Contexto](docs/images/context.png)

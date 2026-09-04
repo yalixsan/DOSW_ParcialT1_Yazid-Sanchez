@@ -72,7 +72,7 @@ El sistema de TutoECI debe tener:
 
 ## Desglose de trabajo: Épicas, Historias de Usuario y Tareas
 
-# La implementación de los requerimientos identificados de TechCup se desglosa de la siguiente manera:
+# La implementación de los requerimientos identificados de TutoECI se desglosa de la siguiente manera:
 
 ### 1. Épica: Gestión de torneos
 

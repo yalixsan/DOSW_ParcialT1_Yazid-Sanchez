@@ -68,3 +68,22 @@ El sistema de TutoECI debe tener:
 | **Flujo principal**          | 1. El organizador consulta los equipos pendientes de aprobación.<br>2. El sistema muestra los equipos disponibles.<br>3. El organizador selecciona un equipo.<br>4. El sistema muestra la información del equipo y del pago realizado.<br>5. El organizador verifica el pago.<br>6. El organizador aprueba la inscripción.<br>7. El sistema registra al equipo como inscrito en el torneo activo. 1. El estudiante realiza el proceso de solicitud de inscripción hasta la sección de preferencias. 2. El sistema le ofrece al estudiante entre los 3 distintos tipos de tutoría según sus preferencias. 3. El estudiante selecciona una opción. 4. El sistema lo marca como valido|
 | **Diagrama de caso de uso**  | ![Elegir preferencia de tutoría](docs/uml/caso2.png) |
 | **Poscondiciones**           | El estudiante recibe la tutoría según las preferencias que tuvo durante su selección |
+
+
+## Desglose de trabajo: Épicas, Historias de Usuario y Tareas
+
+# La implementación de los requerimientos identificados de TechCup se desglosa de la siguiente manera:
+
+### 1. Épica: Gestión de torneos
+
+| ID | Título | Stakeholder | Evidencia en Jira |
+|:---:|---|---|---|
+| EP-01 | Gestión de Tutorías | Plataforma | ![Épica](../images/epic.png) |
+--
+### 2. Historias de usuario
+
+| ID | Título de la Historia | Captura de Jira |
+|:---:|---|---|
+| HU-01 | Solicitar tutoria | ![HU-01](docs/images/historiausuario1.png) |
+| HU-02 | Recibir notificación | ![HU-02](docs/images/historiausuario2.png) |
+| HU-03 | Elegir preferencia de tutoría | ![HU-03](docs/images/historiausuario3.png) |
